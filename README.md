@@ -1,6 +1,7 @@
 # kall-crack
 ##GKHJ-HSJS-BSHS-TTWH
-Licensi free sampe mati
+
+#Licensi free sampe mati
 
 
 ## Hey 👋, This is Kall xd
